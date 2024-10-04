@@ -1,0 +1,17 @@
+name: atsc411
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyter
+  - numpy
+  - metpy
+  - siphon
+  - pandas
+  - xarray
+  - scipy
+  - matplotlib
+  - numpy
+  - metpy
